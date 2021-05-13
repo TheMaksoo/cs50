@@ -9,7 +9,7 @@ int main(void)
     // promt user for y
     int y = get_int("y: ");
 
-    // compate x and y
+    // compare x and y
     if ( x > y)
     {
         printf("X is greater than y\n");
