@@ -4,7 +4,7 @@
 int main(void)
 {
     // 32 bit
-    printf("\nType a number for x and y.\n");
+    printf("\nType a number for x and y. for addition.\n");
     int x = get_int("x: ");
     int y = get_int("y: ");
 
